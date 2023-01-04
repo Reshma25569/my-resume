@@ -1,0 +1,34 @@
+.first2{
+	background-image: url('https://res.cloudinary.com/dd2rossgo/image/upload/v1672321485/food_hfzckj.jpg');
+	background-size: cover;
+	height: 150vh;
+}
+.Favouritehead{
+	font-family: Roboto;
+	font-weight: bold;
+	color: floralwhite;
+	font-size: 35px;
+	 padding: 10px;
+	 margin: 18px;
+}
+.layoutcard2{
+	background-color: whitesmoke;
+	border-radius: 8px;
+	padding: 10px;
+	margin: 18px;
+}
+.dishsimg{
+	width: 120px;
+	height: 120px;
+}
+.dishsimg{
+	font-weight: bold;
+	color: black;
+}
+.dishsimg{
+	width: 120px;
+	height: 120px;
+}
+button{
+	width: 200px;
+}

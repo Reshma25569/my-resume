@@ -1,0 +1,25 @@
+.first{
+	background-image: url('https://res.cloudinary.com/dd2rossgo/image/upload/v1672238134/harsha_wd7z4c.png');
+	background-size: cover;
+	height: 100vh
+}
+.layoutcard{
+	background-color: orange;
+	height: 200px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	padding: 20px;
+
+}
+.heading{
+	color:black;
+	font-family:'Roboto';
+	font-weight:bold;
+}
+.paraline{
+	font-family: 'Roboto';
+	color:grey;
+}
+button{
+	width:300px;
+}
